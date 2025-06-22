@@ -97,9 +97,9 @@ The project successfully demonstrated the potential of social robots in a univer
 
 ## How to Run
 
-1. **Open Choregraphe**: Ensure you have the Choregraphe suite installed and connected to the Pepper robot.
+1. **Open Choregraphe**: Ensure you have the Choregraphe is installed and connected to the Pepper robot.
 
-2. **Load the Project**: Import the project `.crg` or behavior flow files into Choregraphe.
+2. **Load the Project**: Import the project `.crg`
 
 3. **Upload to Pepper**: Connect to your Pepper robot via its IP address and deploy the project.
 
